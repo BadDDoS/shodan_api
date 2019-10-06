@@ -1,2 +1,3 @@
-# shodan_api
-Examples of work with Shodan-API
+# Shodan api examples
+All scripts on python 3
+Run files: python3 file.py
